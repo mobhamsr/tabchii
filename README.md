@@ -1,4 +1,4 @@
-# tabchi# [Tabchi | v.1](https://telegram.me/Titanteams)
+[Tabchi | v.1](https://telegram.me/Titanteams)
 
 تبچی خودت رو بساز ;)
 
