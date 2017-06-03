@@ -17,7 +17,7 @@
 
 ```sh
 git clone https://github.com/liteTeam/tabchii
-cd tabchi
+cd tabchii
 chmod +x bot
 ./bot install
 # and send [y] to finish install
@@ -33,7 +33,7 @@ chmod +x bot
 ## ساخت ربات های بیش تر
 
 ```sh
-cd tabchi
+cd tabchii
 ./bot create
 ./bot number of bot >> شماره رباتی که به شما میدهد
 وارد کردن ایدی عددی سودو#
@@ -42,7 +42,7 @@ cd tabchi
 * * *
 ## اتولاچ
 ```sh
-cd tabchi
+cd tabchii
 ./bot autolaunch
 تمام ربات ها راه اندازی میشوند بدون خاموشی#
 ```
