@@ -54,4 +54,4 @@ cd tabchii
 ### Developers
 [mohammadstar](https://telegram.me/mohammadstar_98)
 ### channel
-[TitanTeam](https://telegram.me/Lite_team)
+[Lite Team](https://telegram.me/Lite_team)
