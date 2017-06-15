@@ -40,7 +40,7 @@ function get_bot (i, adigram)
   end
   function reload(chat_id,msg_id)
     loadfile("./bot-BOT-ID.lua")()
-    send(chat_id, msg_id, "<code>ربات با موفقیت ریست شد و اماده به کار است✔️</code>\n➖➖➖\n🚀کانال ما : @Lite_Team\n😉سازنده : @mohammadstar_98")
+    send(chat_id, msg_id, "<code>ربات با موفقیت ریست شد و اماده به کار است✔️</code>\n➖➖➖\n🚀کانال ما : @Share_")
   end
   function is_adigram(msg)
     local var = false
